@@ -13,7 +13,7 @@
 <li>Process the resultset.</li>
 <li>Close the resultset and statement objects.</li>
  <li>Close the connection.</li></ul>
-<img src="connection.png" alt="JDBC Connection" height="500" width="1800">
+<img src="connection.png" alt="JDBCConnection" height="500" width="1800">
 <a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.ntu.edu.sg%2Fhome%2Fehchua%2Fprogramming%2Fjava%2Fimages%2FJDBC_Cycle.png&imgrefurl=https%3A%2F%2Fwww.ntu.edu.sg%2Fhome%2Fehchua%2Fprogramming%2Fjava%2FJDBC_Basic.html&docid=xFLvv1MsuB7B3M&tbnid=ffJgE1VO_9q2dM%3A&vet=10ahUKEwiF_4TP5qDkAhUPiqwKHSKvCHsQMwhPKAwwDA..i&w=792&h=315&bih=625&biw=1366&q=jdbc%20connection%20steps%20in%20cmd%20image&ved=0ahUKEwiF_4TP5qDkAhUPiqwKHSKvCHsQMwhPKAwwDA&iact=mrc&uact=8">(Image Credit)</a>
 <ol>
 <li><h3>Loading the Driver</h3>
