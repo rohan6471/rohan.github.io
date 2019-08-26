@@ -1,8 +1,8 @@
 <h1><b>JDBC Connection</b></h1>
-<img src=jdbc.jpg >
+<img src="jdbc.jpg" >
 <p>JDBC is an acronym for Java Database Connectivity. It’s an advancement for ODBC ( Open Database Connectivity ). JDBC is an standard API specification developed in order to move data from frontend to backend. This API consists of classes and interfaces written in Java. It basically acts as an interface  or channel between your Java program and databases i.e it establishes a link between the two so that a programmer could send data from Java code and store it in the database for future use.</p>
 <h2>Testing the availability of database</h2><p> connect to MySQL server and type “show databases;” to see databases list. Then type “use test;” to select test database. And type “show tables;” to list down all the tables available in test database.</p>
-<img src=test.png height="200" width="300">
+<img src="test.png" height="200" width="300">
 <h2>Steps to connect to database</h2>
 <ul>
 <li>Import JDBC packages.
@@ -14,7 +14,7 @@
 <li>Close the resultset and statement objects.
 <li>Close the connection.
 </ul>
-<img src=connection.png alt=JDBCConnection height="500" width="1800"><a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.ntu.edu.sg%2Fhome%2Fehchua%2Fprogramming%2Fjava%2Fimages%2FJDBC_Cycle.png&imgrefurl=https%3A%2F%2Fwww.ntu.edu.sg%2Fhome%2Fehchua%2Fprogramming%2Fjava%2FJDBC_Basic.html&docid=xFLvv1MsuB7B3M&tbnid=ffJgE1VO_9q2dM%3A&vet=10ahUKEwiF_4TP5qDkAhUPiqwKHSKvCHsQMwhPKAwwDA..i&w=792&h=315&bih=625&biw=1366&q=jdbc%20connection%20steps%20in%20cmd%20image&ved=0ahUKEwiF_4TP5qDkAhUPiqwKHSKvCHsQMwhPKAwwDA&iact=mrc&uact=8">(Image Credit)</a>
+<img src="connection.png" alt=JDBCConnection height="500" width="1800"><a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.ntu.edu.sg%2Fhome%2Fehchua%2Fprogramming%2Fjava%2Fimages%2FJDBC_Cycle.png&imgrefurl=https%3A%2F%2Fwww.ntu.edu.sg%2Fhome%2Fehchua%2Fprogramming%2Fjava%2FJDBC_Basic.html&docid=xFLvv1MsuB7B3M&tbnid=ffJgE1VO_9q2dM%3A&vet=10ahUKEwiF_4TP5qDkAhUPiqwKHSKvCHsQMwhPKAwwDA..i&w=792&h=315&bih=625&biw=1366&q=jdbc%20connection%20steps%20in%20cmd%20image&ved=0ahUKEwiF_4TP5qDkAhUPiqwKHSKvCHsQMwhPKAwwDA&iact=mrc&uact=8">(Image Credit)</a>
 <ol>
 <li><h3>Loading the Driver</h3>
 <p>To begin with, you first need load the driver or register it before using it in the program . Registration is to be done once in your program. You can register a driver in one of two ways mentioned below :
@@ -59,6 +59,6 @@ Example :
  
  <h3>References</h3>
  <ul>
-  <li>Feel free to connect  me at<a href=https://www.linkedin.com/in/rohan-goud-28b9a9143>https://www.linkedin.com/in/rohan-goud-28b9a9143</a></li>
+  <li>Feel free to connect  me at <a href="https://www.linkedin.com/in/rohan-goud-28b9a9143">https://www.linkedin.com/in/rohan-goud-28b9a9143</a></li>
   <li>Read more at<a href="https://www.geeksforgeeks.org/establishing-jdbc-connection-in-java/">JDBC Connection</a></li>
  <li>View images at<a href="http://www.informit.com/articles/article.aspx?p=26251&seqNum=3"> sources </a></li>
