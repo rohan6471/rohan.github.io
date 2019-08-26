@@ -14,7 +14,7 @@
 <li>Close the resultset and statement objects.
 <li>Close the connection.
 </ul>
-<img src=connection.png alt=JDBCConnection height="500" width="1800">
+<img src=connection.png alt=JDBCConnection height="500" width="1800"><a href=http://www.informit.com/articles/article.aspx?p=26251&seqNum=3">Image Credit</a>
 <ol>
 <li><h3>Loading the Driver</h3>
 <p>To begin with, you first need load the driver or register it before using it in the program . Registration is to be done once in your program. You can register a driver in one of two ways mentioned below :
