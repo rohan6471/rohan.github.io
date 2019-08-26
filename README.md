@@ -59,6 +59,6 @@ Example :
  
  <h3>References</h3>
  <ul>
- <li><a href="https://www.geeksforgeeks.org/establishing-jdbc-connection-in-java/">JDBC Connection</a></li>
- <li><a href="http://www.informit.com/articles/article.aspx?p=26251&seqNum=3">Additional information</a></li>
+  <li><a href=https://www.linkedin.com/in/rohan-goud-28b9a9143>https://www.linkedin.com/in/rohan-goud-28b9a9143</a></li>
+  <li><a href="https://www.geeksforgeeks.org/establishing-jdbc-connection-in-java/">JDBC Connection</a></li>
  <li><a href="http://www.informit.com/articles/article.aspx?p=26251&seqNum=3">Image source </a></li>
