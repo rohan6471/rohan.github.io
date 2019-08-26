@@ -2,7 +2,7 @@
 <img src=jdbc.jpg >
 <p>JDBC is an acronym for Java Database Connectivity. It’s an advancement for ODBC ( Open Database Connectivity ). JDBC is an standard API specification developed in order to move data from frontend to backend. This API consists of classes and interfaces written in Java. It basically acts as an interface  or channel between your Java program and databases i.e it establishes a link between the two so that a programmer could send data from Java code and store it in the database for future use.</p>
 <h2>Testing the availability of database</h2><p> connect to MySQL server and type “show databases;” to see databases list. Then type “use test;” to select test database. And type “show tables;” to list down all the tables available in test database.</p>
-<img src=database.png height="600" width="500">
+<img src=Database.png height="600" width="500">
 <h2>Steps to connect to database</h2>
 <ul>
 <li>Import JDBC packages.
