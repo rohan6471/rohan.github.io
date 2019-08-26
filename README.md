@@ -59,6 +59,6 @@ Example :
  
  <h3>References</h3>
  <ul>
-  <li>Feel free to connect  me at <a href="https://www.linkedin.com/in/rohan-goud-28b9a9143">https://www.linkedin.com/in/rohan-goud-28b9a9143</a></li>
-  <li>Read more at<a href="https://www.geeksforgeeks.org/establishing-jdbc-connection-in-java/">JDBC Connection</a></li>
- <li>View images at<a href="http://www.informit.com/articles/article.aspx?p=26251&seqNum=3"> sources </a></li>
+  <li>Feel free to connect  me at <a href="https://www.linkedin.com/in/rohan-goud-28b9a9143"> https://www.linkedin.com/in/rohan-goud-28b9a9143</a></li>
+  <li>Read more at <a href="https://www.geeksforgeeks.org/establishing-jdbc-connection-in-java/"> JDBC Connection</a></li>
+ <li>View images at <a href="http://www.informit.com/articles/article.aspx?p=26251&seqNum=3"> sources </a></li>
