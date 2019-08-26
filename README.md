@@ -2,7 +2,7 @@
 <img src=jdbc.jpg >
 <p>JDBC is an acronym for Java Database Connectivity. It’s an advancement for ODBC ( Open Database Connectivity ). JDBC is an standard API specification developed in order to move data from frontend to backend. This API consists of classes and interfaces written in Java. It basically acts as an interface  or channel between your Java program and databases i.e it establishes a link between the two so that a programmer could send data from Java code and store it in the database for future use.</p>
 <h2>Testing the availability of database</h2><p> connect to MySQL server and type “show databases;” to see databases list. Then type “use test;” to select test database. And type “show tables;” to list down all the tables available in test database.</p>
-<img src=test.png height="300" width="300">
+<img src=test.png height="200" width="300">
 <h2>Steps to connect to database</h2>
 <ul>
 <li>Import JDBC packages.
@@ -14,7 +14,7 @@
 <li>Close the resultset and statement objects.
 <li>Close the connection.
 </ul>
-<img src=connection.png alt=JDBCConnection height="500" width="900">
+<img src=connection.png alt=JDBCConnection height="500" width="1800">
 <ol>
 <li><h3>Loading the Driver</h3>
 <p>To begin with, you first need load the driver or register it before using it in the program . Registration is to be done once in your program. You can register a driver in one of two ways mentioned below :
@@ -56,3 +56,9 @@ Example :
 
  con.close();
  </p></li>
+ 
+ <h3>References</h3>
+ <ul>
+ <li><a href="https://www.geeksforgeeks.org/establishing-jdbc-connection-in-java/">JDBC Connection</a></li>
+ <li><a href="http://www.informit.com/articles/article.aspx?p=26251&seqNum=3">Additional information</a></li>
+ <li><a href="http://www.informit.com/articles/article.aspx?p=26251&seqNum=3">Image source </a></li>
